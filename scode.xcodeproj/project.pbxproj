@@ -19,6 +19,8 @@
 		046A428F14DA974900E60A5F /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046A428E14DA974900E60A5F /* DetailViewController.m */; };
 		7986B55914DA9A6D00F439D8 /* Class1.m in Sources */ = {isa = PBXBuildFile; fileRef = 7986B55714DA9A6D00F439D8 /* Class1.m */; };
 		7986B55A14DA9A6D00F439D8 /* Class1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7986B55814DA9A6D00F439D8 /* Class1.xib */; };
+		7986B55F14DA9D4A00F439D8 /* Class2.m in Sources */ = {isa = PBXBuildFile; fileRef = 7986B55D14DA9D4A00F439D8 /* Class2.m */; };
+		7986B56014DA9D4A00F439D8 /* Class2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7986B55E14DA9D4A00F439D8 /* Class2.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +43,9 @@
 		7986B55614DA9A6D00F439D8 /* Class1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Class1.h; sourceTree = "<group>"; };
 		7986B55714DA9A6D00F439D8 /* Class1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Class1.m; sourceTree = "<group>"; };
 		7986B55814DA9A6D00F439D8 /* Class1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Class1.xib; sourceTree = "<group>"; };
+		7986B55C14DA9D4A00F439D8 /* Class2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Class2.h; sourceTree = "<group>"; };
+		7986B55D14DA9D4A00F439D8 /* Class2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Class2.m; sourceTree = "<group>"; };
+		7986B55E14DA9D4A00F439D8 /* Class2.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Class2.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +104,9 @@
 				7986B55614DA9A6D00F439D8 /* Class1.h */,
 				7986B55714DA9A6D00F439D8 /* Class1.m */,
 				7986B55814DA9A6D00F439D8 /* Class1.xib */,
+				7986B55C14DA9D4A00F439D8 /* Class2.h */,
+				7986B55D14DA9D4A00F439D8 /* Class2.m */,
+				7986B55E14DA9D4A00F439D8 /* Class2.xib */,
 			);
 			path = scode;
 			sourceTree = "<group>";
@@ -168,6 +176,7 @@
 				046A428614DA974900E60A5F /* MainStoryboard_iPhone.storyboard in Resources */,
 				046A428914DA974900E60A5F /* MainStoryboard_iPad.storyboard in Resources */,
 				7986B55A14DA9A6D00F439D8 /* Class1.xib in Resources */,
+				7986B56014DA9D4A00F439D8 /* Class2.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -183,6 +192,7 @@
 				046A428C14DA974900E60A5F /* MasterViewController.m in Sources */,
 				046A428F14DA974900E60A5F /* DetailViewController.m in Sources */,
 				7986B55914DA9A6D00F439D8 /* Class1.m in Sources */,
+				7986B55F14DA9D4A00F439D8 /* Class2.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
