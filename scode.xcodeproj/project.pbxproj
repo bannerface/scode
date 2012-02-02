@@ -17,6 +17,8 @@
 		046A428914DA974900E60A5F /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046A428714DA974900E60A5F /* MainStoryboard_iPad.storyboard */; };
 		046A428C14DA974900E60A5F /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046A428B14DA974900E60A5F /* MasterViewController.m */; };
 		046A428F14DA974900E60A5F /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 046A428E14DA974900E60A5F /* DetailViewController.m */; };
+		7986B55914DA9A6D00F439D8 /* Class1.m in Sources */ = {isa = PBXBuildFile; fileRef = 7986B55714DA9A6D00F439D8 /* Class1.m */; };
+		7986B55A14DA9A6D00F439D8 /* Class1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7986B55814DA9A6D00F439D8 /* Class1.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,9 @@
 		046A428B14DA974900E60A5F /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
 		046A428D14DA974900E60A5F /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		046A428E14DA974900E60A5F /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		7986B55614DA9A6D00F439D8 /* Class1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Class1.h; sourceTree = "<group>"; };
+		7986B55714DA9A6D00F439D8 /* Class1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Class1.m; sourceTree = "<group>"; };
+		7986B55814DA9A6D00F439D8 /* Class1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Class1.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +96,9 @@
 				046A428D14DA974900E60A5F /* DetailViewController.h */,
 				046A428E14DA974900E60A5F /* DetailViewController.m */,
 				046A427914DA974900E60A5F /* Supporting Files */,
+				7986B55614DA9A6D00F439D8 /* Class1.h */,
+				7986B55714DA9A6D00F439D8 /* Class1.m */,
+				7986B55814DA9A6D00F439D8 /* Class1.xib */,
 			);
 			path = scode;
 			sourceTree = "<group>";
@@ -159,6 +167,7 @@
 				046A427D14DA974900E60A5F /* InfoPlist.strings in Resources */,
 				046A428614DA974900E60A5F /* MainStoryboard_iPhone.storyboard in Resources */,
 				046A428914DA974900E60A5F /* MainStoryboard_iPad.storyboard in Resources */,
+				7986B55A14DA9A6D00F439D8 /* Class1.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -173,6 +182,7 @@
 				046A428314DA974900E60A5F /* AppDelegate.m in Sources */,
 				046A428C14DA974900E60A5F /* MasterViewController.m in Sources */,
 				046A428F14DA974900E60A5F /* DetailViewController.m in Sources */,
+				7986B55914DA9A6D00F439D8 /* Class1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,6 +304,7 @@
 				046A429414DA974900E60A5F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
