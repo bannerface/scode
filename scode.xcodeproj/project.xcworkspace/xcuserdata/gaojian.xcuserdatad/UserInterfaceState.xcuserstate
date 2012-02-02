@@ -822,7 +822,7 @@
 		<string>PrimaryDocumentVisibleCharacterRange</string>
 		<string>HideAllIssues</string>
 		<string>PrimaryDocumentSelectedCharacterRange</string>
-		<real>349871437.62137997</real>
+		<real>349872471.28928399</real>
 		<string>{0, 173}</string>
 		<string>{0, 0}</string>
 		<dict>
@@ -1109,9 +1109,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>349871529.36753702</real>
-		<string>{0, 887}</string>
-		<string>{406, 0}</string>
+		<real>349872476.289415</real>
+		<string>{0, 810}</string>
+		<string>{274, 161}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1627,7 +1627,7 @@
 				<integer>142</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/gaojian/Desktop/scode/scode/Class2.xib</string>
+		<string>file://localhost/Users/gaojian/Desktop/scode/scode/Class1.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -1645,7 +1645,7 @@
 				<integer>144</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/gaojian/Desktop/scode/scode/Class1.h</string>
+		<string>file://localhost/Users/gaojian/Desktop/scode/scode/Class2.xib</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2395,9 +2395,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>349871529.369322</real>
-		<string>{0, 887}</string>
-		<string>{406, 0}</string>
+		<real>349872476.29025799</real>
+		<string>{0, 810}</string>
+		<string>{274, 161}</string>
 		<string>-initWithNibName:bundle:</string>
 		<string>Xcode.IDEKit.EditorDocument.SourceCode</string>
 		<dict>
